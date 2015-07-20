@@ -20,9 +20,9 @@ optional arguments:
                         Name of the output file. Display preview if absent
 
  The synchronization list file (synchList) should contain a list of pauses,
-one per line. Each pause consists of two numbers separated by a <TAB>.
+one per line. Each pause consists of two numbers separated by a |TAB|.
 
-ex: A_1<TAB>B_1
+ex: A_1|TAB|B_1
 
 This indicated that frame A_1 in of videoA corresponds to frame B_1 in videoB
 the script will introduce a pause in one of the videos (the one running ahead)
